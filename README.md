@@ -1,3 +1,3 @@
 # ===V-0.0.1===
 
-- Coming Soon
+* Players will now load when Start Game button is pressed
